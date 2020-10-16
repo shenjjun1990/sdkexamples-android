@@ -4,12 +4,13 @@ EaseMob SDK Examples Android
 
 Chat Example
 ============================
-1. 注册用户： 使用英文用户名，电话号码或邮件地址注册
-注册用户调用了Register.java
+1Registered users: Register with English user name, phone number or email address
 
-2. 登录：输入用户名和密码登录
-登录调用了Login.java
+ Register.java is called by registered users
 
-3. 添加好友：
+ 2. Login: enter the user name and password to log in
 
+ Login called Login.java
+
+ 3. Add friends:
 4. ss
